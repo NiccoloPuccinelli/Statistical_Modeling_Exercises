@@ -1,4 +1,4 @@
-# Statistical-Modeling
+# Statistical Modeling
 
 The statistical modeling exam consisted of a written test on the theoretical part and a laboratory test on the practical part, consisting of an exercise to be performed in **R language**.
 
