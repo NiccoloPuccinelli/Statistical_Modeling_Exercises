@@ -1,7 +1,3 @@
-# Statistical Modeling
+# Statistical Modeling exercises
 
-The statistical modeling exam consisted of a written test on the theoretical part and a laboratory test on the practical part, consisting of an exercise to be performed in **R language**.
-
-Here are three exercises done in preparation for the exam, covering almost all course topics.
-
-Final grade: **26**.
+In this repo you can find 3 different exercises done in R language for the statistical modelling exam. The analyses cover topics such as multicollinearity between variables, autocorrelation and heteroschedasticity and normality of residuals.
